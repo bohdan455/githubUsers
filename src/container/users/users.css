@@ -1,0 +1,8 @@
+.users {
+  width: 70%;
+  margin: 0 auto;
+  border-radius: 15px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 20px;
+}/*# sourceMappingURL=users.css.map */

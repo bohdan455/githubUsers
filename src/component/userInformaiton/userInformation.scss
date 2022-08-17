@@ -1,0 +1,18 @@
+.user_information{
+    cursor: pointer;
+    width: 300px;
+    height: 100px;
+    padding: 20px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid gray;
+    background-color: #CCCACB;
+    img{
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+
+    }
+}

@@ -1,0 +1,21 @@
+.user_page{
+    width: 80%;
+    margin: 100px auto 0;
+   img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+   } 
+}
+.user_page-description{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 40px;
+}
+.user_page-repos{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    padding: 100px 0;
+    gap: 20px;
+}

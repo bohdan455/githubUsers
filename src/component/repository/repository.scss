@@ -1,0 +1,16 @@
+.repository{
+    width: 200px;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid grey;
+    border-radius: 20px;
+    font-size: 12px;
+    cursor: pointer;
+    h1{
+     word-break: break-all;
+     padding: 10px;   
+    }
+}
